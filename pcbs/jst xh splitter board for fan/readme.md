@@ -16,5 +16,14 @@ A simple JST XH splitter pcb board to connect two chamber fans to one controller
 
 ![](pictures/case%20with%20pcb-sm.png)
 
+updated case v3 with supports 
+
+![](pictures/case%20v3%20with%20supports%203-sm.png)
+
+![](pictures/case%20v3%20with%20supports%204-sm.png)
+
+![](pictures/case%20v3%20with%20supports-sm.png)
+
+![](pictures/case%20v3%20with%20supports%202-sm.png)
 
 
